@@ -1,0 +1,13 @@
+[package]
+name = "realitykit"
+version = "0.0.0"
+edition = "2021"
+authors = ["Eugene Hauptmann <eugene@reactivelions.com>"]
+description = "Rust wrapper around Apple RealityKit"
+license = "MIT"
+keywords = ["realitykit", "visionos", "ios"]
+readme = "README.md"
+homepage = "https://github.com/eugenehp/realitykit-rs"
+repository = "https://github.com/eugenehp/realitykit-rs.git"
+
+[dependencies]
